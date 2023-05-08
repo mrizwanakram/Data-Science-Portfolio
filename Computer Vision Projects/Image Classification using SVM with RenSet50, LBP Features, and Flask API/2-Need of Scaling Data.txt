@@ -1,0 +1,5 @@
+2) Explain in the code why did we scale the data before passing it to svm
+
+Support Vector Machines (SVMs) are sensitive to the scale of the features. This means that if the features have very different scales, then the SVM might give more weight to the features with larger values, which could lead to poor performance. To address this issue, we often scale the features before training the SVM.
+
+In the code, scaling is typically done using a preprocessing step such as StandardScaler or MinMaxScaler from the scikit-learn library. StandardScaler scales the data to have a mean of zero and unit variance, while MinMaxScaler scales the data to a range between 0 and 1.
