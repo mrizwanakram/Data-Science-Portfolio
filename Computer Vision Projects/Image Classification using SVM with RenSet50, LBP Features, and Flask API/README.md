@@ -61,9 +61,10 @@ This dataset is a modified version of a large image dataset provided by M.Stephe
 
 - `README.md` - contains the project description and setup instructions.
 - `requirements.txt` - contains all the required libraries for the project.
-- `svm_model.py` - contains the script to create and train the SVM model using RenSet50 features, image width and height, and LBP features.
-- `accuracy_metrics.py` - contains the script to auto-create accuracy metrics report for your SVM model.
-- `app.py` - contains the Flask API code for image classification.
+- `1&3-SVM Model Training from CSV and Auto Report Generating.ipynb` - contains the script to create and train the SVM model using RenSet50 features, image width and height, and LBP features.
+- 2 why nead scaling: contains anser of question why we need scalling before SVM
+- `3accuracy_metrics.txt` - contains the accuracy metrics report for my SVM model.
+- `4-Flask API Server side and clint Side` - contains the Flask API code for image classification.
 - `Dockerfile` - contains the instructions to build a Docker container for the Flask API.
 
 ## How to Use the API
