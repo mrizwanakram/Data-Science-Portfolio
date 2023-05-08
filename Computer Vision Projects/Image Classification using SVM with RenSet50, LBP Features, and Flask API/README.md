@@ -5,6 +5,7 @@ This is a project for image classification using Support Vector Machine (SVM) wi
 ## Project Requirements
 
 - Python 3.6 or above
+- tensorflow
 - Flask
 - Scikit-Learn
 - NumPy
