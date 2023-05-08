@@ -1,6 +1,17 @@
 # Image Classification using SVM with RenSet50, LBP Features, and Flask API
 
-This is a project for image classification using Support Vector Machine (SVM) with RenSet50, Local Binary Pattern (LBP) Features, and Flask API. The project aims to classify images into multiple categories by using RenSet50, LBP Features, and SVM model.
+This is a project for image classification using Support Vector Machine (SVM) with RenSet50, Local Binary Pattern (LBP) Features, and Flask API. The project aims to classify images into multiple categories by using RenSet50, LBP Features, and SVM model.Following are the Tasks that i do in this Project.
+
+### 1) Create a simple SVM model which takes renset50 features, image width and height, image's lbp features. You should first create a csv of all features and then train svm. Before training svm. You should scale your data too.
+
+### 2) Explain in the code why did we scale the data before passing it to svm
+
+### 3) Script to Auto Create Accuracy Metrics Report
+
+### 4) Create Model's Flask API
+
+### 5) Docker file of API
+
 
 ## Project Requirements
 
