@@ -10,7 +10,8 @@ We used the [Apples, Bananas, and Oranges dataset](https://www.kaggle.com/datase
 We used TensorFlow Keras to implement our model. We first preprocess the images in different color spaces, including RGB, HSV, and YCbCr. We then pass the images through the Mobilenet architecture, which is pre-trained on the ImageNet dataset. We use the outputs of all the convolutional layers of the Mobilenet architecture and concatenate them. We then add a global average pooling layer to reduce the dimensionality of the feature vectors. Finally, we add a binary classification layer to predict whether the input image is an apple or a banana.
 
 ## Results
-Our model achieved an accuracy of 94.5% on the test set. Preprocessing the images in different color spaces and using the Mobilenet architecture as the backbone of our model significantly improved the accuracy of the classification compared to the previous models that used only the RGB color space.![Screenshot (86)](https://user-images.githubusercontent.com/69509085/237059912-31cbd311-dd71-43e1-9a01-5ed275058c23.png)
+Our model achieved an accuracy of 94.5% on the test set. Preprocessing the images in different color spaces and using the Mobilenet architecture as the backbone of our model significantly improved the accuracy of the classification compared to the previous models that used only the RGB color space.![Screenshot (86)](https://user-images.githubusercontent.com/69509085/237060446-c0937df8-1040-4a9d-9da2-f1b890866521.png)
+
 
 
 ## Conclusion
