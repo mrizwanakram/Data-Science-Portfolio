@@ -1,4 +1,7 @@
 # Project Title: Enhancing Fruit Image Classification with Multi-Colorspace Preprocessing and Mobilenet Architecture
+#### 1) Create a simple apple vs banana classification model. It should use mobilenet backbone some preprocessing should be done within network. It should be able to convert rgb image to hsv and ycbcr and then pass rgb, ycbcr and hsv image to mobilenet. Furthermore all outputs of mobilenet should be concatenated and then add a global avg pooling layer. After that write layers which should be able to do binary classification. It should be implemented in keras tensorflow
+#### 2)Script to Auto Create Accuracy Metrics Report
+#### 3)Encrypt your Source Code using Cython
 
 ## Introduction
 The goal of this project is to classify the fruit images of apples and bananas using a deep learning approach. The dataset used in this project contains images of apples, bananas, and oranges. However, we only use the images of apples and bananas to classify them. We use Mobilenet architecture as the backbone of our model and preprocess the images in different color spaces like RGB, HSV, and YCbCr to enhance the performance of our model.
