@@ -47,12 +47,3 @@ This project aims to implement face detection using the YOLOv8 algorithm. YOLOv8
 
 - Specify the license for your project here. For example, you can use the MIT License, Apache License, or any other license that suits your requirements.
 
-## Contributing
-
-- If you would like to contribute to this project, please follow the guidelines outlined in the CONTRIBUTING.md file.
-
-## Support
-
-- For any questions or issues, please contact [your-email@example.com](mailto:your-email@example.com).
-
-Feel free to update and customize this README file based on your project's specific requirements. Provide clear instructions, necessary dependencies, and any other relevant information to help users understand and utilize your face detection project effectively.
