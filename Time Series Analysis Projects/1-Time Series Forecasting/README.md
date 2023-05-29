@@ -23,7 +23,7 @@ To get started with the "Time Series Forecasting" project, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/time-series-forecasting.git
+   git clone https://github.com/mrizwanakram/time-series-forecasting.git
    ```
 
 2. Explore the `Notebooks` directory and open the relevant Jupyter notebook that suits your specific forecasting task or dataset.
