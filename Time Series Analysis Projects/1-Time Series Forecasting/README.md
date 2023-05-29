@@ -48,8 +48,6 @@ Make sure to have these dependencies installed on your system before running the
 
 Contributions to the "Time Series Forecasting" project are welcome! If you find any issues or have suggestions for improvements, feel free to submit a pull request or open an issue in the repository. Let's collaborate and make this project even better!
 
-## Contact
 
-If you have any questions or would like to discuss this project further, please feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
 
 Thank you for your interest in the "Time Series Forecasting" project. Let's uncover meaningful insights and make accurate predictions together!
