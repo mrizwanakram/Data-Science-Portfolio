@@ -6,7 +6,7 @@ This project aims to implement face detection using the YOLOv8 algorithm. YOLOv8
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/face-detection-yolov8.git
+   git clone https://github.com/mrizwanakram/face-detection-yolov8.git
    ```
 
 2. Install the required dependencies:
