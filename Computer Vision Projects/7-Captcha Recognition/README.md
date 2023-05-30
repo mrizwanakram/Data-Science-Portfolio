@@ -1,7 +1,7 @@
 # Captcha Recognition
 
-![Captcha Recognition](captcha-recogn![Uploading capcha images.jpg…]()
-ition.jpg)
+![Captcha Recognition](capcha images.jpg)
+
 
 ## Introduction
 
