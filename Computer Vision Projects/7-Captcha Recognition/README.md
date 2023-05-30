@@ -1,6 +1,6 @@
 # Captcha Recognition
 
-![Captcha Recognition](capcha images.jpg)
+
 
 
 ## Introduction
